@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+langchain_community
+openai
+langchain-openai
+fastapi
+uvicorn
+gunicorn
+azure-identity
+azure-keyvault-secrets
